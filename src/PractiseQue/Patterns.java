@@ -90,8 +90,8 @@ public class Patterns {
                 number++;
             }
             System.out.println();
+            
+
         }
     }
-
-
 }
