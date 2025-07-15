@@ -1,4 +1,4 @@
-package DSA.LinearSearch;
+package DSA.SearchingAndSorting.LinearSearch;
 
 public class SearchInStrings {
     public static void main(String[] args) {

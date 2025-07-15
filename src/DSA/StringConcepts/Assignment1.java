@@ -5,7 +5,7 @@ public class Assignment1 {
         Assignment1 obj = new Assignment1();
         String str1 = "Hello1233s" ;
 //        System.out.println(  str1.length());
-      //  obj.PrintCharactersOfString(str1);
+      //  obj.PrintCharactersOfString(str1);;'
        // obj.ReverseAString(str1);
         obj.VowelsAndConsonants(str1);
 

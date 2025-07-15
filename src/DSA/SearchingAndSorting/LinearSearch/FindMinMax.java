@@ -1,4 +1,4 @@
-package DSA.LinearSearch;
+package DSA.SearchingAndSorting.LinearSearch;
 
 public class FindMinMax {
     public static void main(String[] args) {
